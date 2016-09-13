@@ -1,0 +1,14 @@
+{
+  "name": "Healthcare-Chatbot",
+  "version": "0.1.0",
+  "description": "",
+  "engines": {
+    "node":">= 6.x"
+  },
+  "dependencies": {
+    "kinvey-backend-sdk": "kinvey/backend-sdk#v0.4.1",
+    "slack": "7.5.7",
+    "request": "2.71.0",
+    "botkit":"0.2.2"
+  }  
+}
